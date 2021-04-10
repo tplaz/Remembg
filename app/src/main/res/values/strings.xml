@@ -1,3 +1,5 @@
 <resources>
 	<string name="app_name">Remembg</string>
+	<string name="create_card">Create a card…</string>
+	<string name="cards">Cards!</string>
 </resources>
